@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+backend/venv/
+/tmp/versecatch_venv/
+versecatch/build/
+versecatch/.dart_tool/
+versecatch/.packages
+versecatch/pubspec.lock
+.DS_Store
+*.log
